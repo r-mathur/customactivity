@@ -1,2 +1,2 @@
-# customactivity
+# Custom Activities
 UiPath Custom Activity
